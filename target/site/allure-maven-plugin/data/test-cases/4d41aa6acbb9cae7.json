@@ -1,0 +1,71 @@
+{
+  "uid" : "4d41aa6acbb9cae7",
+  "name" : "Проверяем удаление объекта",
+  "fullName" : "tests.DeleteUser.deleteUser",
+  "historyId" : "2c8679caf37316edeb23ef5b4aabaabf",
+  "time" : {
+    "start" : 1571422472897,
+    "stop" : 1571422475820,
+    "duration" : 2923
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1571422466164,
+      "stop" : 1571422466954,
+      "duration" : 790
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.DeleteUser"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.DeleteUser"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteUser"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.DeleteUser"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Antonenko.local"
+  }, {
+    "name" : "thread",
+    "value" : "99219@MacBook-Pro-Antonenko.local.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d41aa6acbb9cae7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,5 @@
+tests/DeleteUser.class
+tests/CreateUser.class
+tests/BaseTest.class
+tests/UpdateUser.class
+tests/GetUser.class

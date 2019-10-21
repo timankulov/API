@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","tests.CreateUser.createUser","736",""
+"passed","tests.DeleteUser.deleteUser","2923",""
+"passed","tests.GetUser.getUser","1499",""
+"failed","tests.UpdateUser.updateUser","3507",""

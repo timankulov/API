@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Удаление объекта">
+    <test name="Удаление объекта">
+        <classes>
+            <class name="tests.DeleteUser"/>
+        </classes>
+    </test>
+</suite>

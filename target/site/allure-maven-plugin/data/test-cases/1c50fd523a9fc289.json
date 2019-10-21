@@ -1,0 +1,71 @@
+{
+  "uid" : "1c50fd523a9fc289",
+  "name" : "Проверяем создание объекта",
+  "fullName" : "tests.CreateUser.createUser",
+  "historyId" : "1885fe04833b94cb9b808df72c0ec160",
+  "time" : {
+    "start" : 1571422470646,
+    "stop" : 1571422471382,
+    "duration" : 736
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1571422466164,
+      "stop" : 1571422466954,
+      "duration" : 790
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.CreateUser"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.CreateUser"
+  }, {
+    "name" : "testMethod",
+    "value" : "createUser"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.CreateUser"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Antonenko.local"
+  }, {
+    "name" : "thread",
+    "value" : "99219@MacBook-Pro-Antonenko.local.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c50fd523a9fc289.json",
+  "parameterValues" : [ ]
+}

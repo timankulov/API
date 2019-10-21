@@ -1,0 +1,79 @@
+{
+  "a7afe270894d141ac03e48dab15d4997" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19b1115f3d7e4fd8",
+      "status" : "failed",
+      "statusDetails" : "1 expectation failed.\nExpected status code <404> but was <200>.\n",
+      "time" : {
+        "start" : 1571422467099,
+        "stop" : 1571422470606,
+        "duration" : 3507
+      }
+    } ]
+  },
+  "1885fe04833b94cb9b808df72c0ec160" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c50fd523a9fc289",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571422470646,
+        "stop" : 1571422471382,
+        "duration" : 736
+      }
+    } ]
+  },
+  "2c8679caf37316edeb23ef5b4aabaabf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d41aa6acbb9cae7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571422472897,
+        "stop" : 1571422475820,
+        "duration" : 2923
+      }
+    } ]
+  },
+  "d59d288c7ced6a6a933f96d7bf9fb61b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6ed33bf671a47a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571422471385,
+        "stop" : 1571422472884,
+        "duration" : 1499
+      }
+    } ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Проверяем изменение объекта",
+    "uid" : "19b1115f3d7e4fd8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1571422467099,
+      "stop" : 1571422470606,
+      "duration" : 3507
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Проверяем создание объекта",
+    "uid" : "1c50fd523a9fc289",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571422470646,
+      "stop" : 1571422471382,
+      "duration" : 736
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Проверяем получение объекта",
+    "uid" : "f6ed33bf671a47a3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571422471385,
+      "stop" : 1571422472884,
+      "duration" : 1499
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Проверяем удаление объекта",
+    "uid" : "4d41aa6acbb9cae7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1571422472897,
+      "stop" : 1571422475820,
+      "duration" : 2923
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

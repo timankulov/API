@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "1 expectation failed.\nExpected status code <404> but was <200>.\n",
+      "children" : [ {
+        "name" : "Проверяем изменение объекта",
+        "uid" : "19b1115f3d7e4fd8",
+        "parentUid" : "9d2de2ceab9cc49841510f4abdd9fbb6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1571422467099,
+          "stop" : 1571422470606,
+          "duration" : 3507
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d2de2ceab9cc49841510f4abdd9fbb6"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
